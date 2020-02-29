@@ -1,6 +1,6 @@
-<p align="center">
-  <h1> Queens College CS211 C++ Projects </h1>
-</p>
+<h1 align="center">
+  <b> Queens College CS211 C++ Projects  </b>
+</h1>
 
 * **Perfect Square**
 
